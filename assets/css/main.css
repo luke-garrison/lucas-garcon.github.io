@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 
 /*
 	Big Picture by HTML5 UP
@@ -475,7 +475,7 @@
 /* Type */
 
 	body, input, textarea, select {
-		font-family: "Source Sans Pro", "sans-serif";
+		font-family: 'Josefin Sans', sans-serif;
 		font-weight: 300;
 		font-size: 18pt;
 		line-height: 1.75em;
@@ -1094,7 +1094,7 @@
 				animation: spinner-rotate 0.75s infinite linear !important;
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: "Source Sans Pro", "sans-serif";
+				font-family: 'Josefin Sans', sans-serif;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
