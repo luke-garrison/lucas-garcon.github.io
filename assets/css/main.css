@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
-@import url("font-awesome.min.css");
 
 /*
 	Big Picture by HTML5 UP
@@ -1095,7 +1094,7 @@
 				animation: spinner-rotate 0.75s infinite linear !important;
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family: "Source Sans Pro", "sans-serif";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
